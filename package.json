@@ -1,0 +1,15 @@
+{
+  "name": "midtrans-test",
+  "version": "1.0.0",
+  "description": "testing demo web",
+  "main": "index.js",
+  "author": "aishy",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.13.0"
+  },
+  "scripts": {
+    "cy:open" : "cypress open",
+    "cy:run" : "cypress run"
+  }
+}
